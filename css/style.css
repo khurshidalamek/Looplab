@@ -1,0 +1,67 @@
+body{
+    background: #333333;
+    color: #fff;
+
+}
+
+.navbar{
+    border-bottom: 3px solid #096d9f;
+    background: #2e2f2f;
+    
+}
+
+#home-section{
+   background: url(../img/ancient-architecture-5766754_1920.jpg)
+   no-repeat center top;
+   background-size: cover;
+   min-height: 700px;
+   background-attachment: fixed;
+}
+
+#home-section .dark-overlay{
+    background: rgba(0,0,0,0.7);
+    min-height: 700px;
+}
+
+#home-section .home-inner{
+    padding-top: 150px;
+    padding-bottom: 50px;
+}
+
+#home-section .fas{
+    background: #fff;
+    color: #008ed6;
+    padding: 4px;
+    font-size: 30px;
+    border-radius: 5px;
+}
+
+
+#explore-main-section .fas{
+    background: rgb(5, 5, 5);
+    color: #f9fdff;
+    padding: 4px;
+    font-size: 30px;
+    border-radius: 5px;
+}
+
+#Create-main-section .fas{
+    background: rgb(5, 5, 5);
+    color: #f9fdff;
+    padding: 4px;
+    font-size: 30px;
+    border-radius: 5px;
+}
+
+
+#share-main-section .fas{
+    background: rgb(0, 0, 0);
+    color: #ffffff;
+    padding: 4px;
+    font-size: 30px;
+    border-radius: 5px;
+}
+
+
+#footer-section{
+}
